@@ -1,5 +1,5 @@
 # ICT283
-This is ICT283 assignment 1 and 2 for Murdoch University
+This is ICT283 Data Structures and Abstractions assignment 1 and 2 for Murdoch University
 
 I HAVE UPDATED ICT 283 ASSIGNMENT AND LABS
 
